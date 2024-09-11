@@ -42,4 +42,3 @@ tritonclient==2.49.0
 ultralytics==8.2.81
 ultralytics_thop==2.0.5
 x2paddle==1.5.0
-~==ras
