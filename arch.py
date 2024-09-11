@@ -1,7 +1,7 @@
 import streamlit as st
-from keras.api.models import load_model
-from keras.api.preprocessing import image
-from keras.api.applications.inception_v3 import preprocess_input
+from keras.models import load_model
+from keras.preprocessing import image
+from keras.applications.inception_v3 import preprocess_input
 import numpy as np
 import os
 
